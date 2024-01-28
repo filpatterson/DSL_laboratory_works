@@ -1,7 +1,7 @@
 # Topic: Parser & Building an Abstract Syntax Tree
 
 ### Course: Formal Languages & Finite Automata
-### Author: Vasile Drumea
+### Author: Cretu Dumitru and cudos to the Vasile Drumea with Irina Cojuhari
 
 ----
 
@@ -37,7 +37,7 @@
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-7. The deadline for this lab work is until __*23/05/2023::23:59:59*__.
+7. The deadline for this lab work is until ... man, i even don't know what kind of joke to set here, wait a little more.
 
 8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
 

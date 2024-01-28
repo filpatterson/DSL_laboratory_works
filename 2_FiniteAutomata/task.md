@@ -1,7 +1,7 @@
 # Topic: Determinism in Finite Automata. Conversion from NDFA 2 DFA. Chomsky Hierarchy.
 
 ### Course: Formal Languages & Finite Automata
-### Author: Vasile Drumea
+### Author: Cretu Dumitru and kudos to the Vasile Drumea with Irina Cojuhari
 
 ----
 
@@ -57,6 +57,6 @@
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-7. The deadline for this assignment is __07/03/2022::23:59:59:99__.
+7. The deadline for this assignment is ... well, stay tuned, you're too curious.
 
 8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.

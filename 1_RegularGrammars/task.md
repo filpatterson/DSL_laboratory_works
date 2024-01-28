@@ -1,7 +1,7 @@
 # Topic: Intro to formal languages. Regular grammars. Finite Automata.
 
 ### Course: Formal Languages & Finite Automata
-### Author: Vasile Drumea
+### Author: Cretu Dumitru and kudos to the Vasile Drumea with Irina Cojuhari
 
 ----
 
@@ -13,30 +13,27 @@
 
 &ensp;&ensp;&ensp; Now these components can be established in an infinite amount of configurations, which actually means that whenever a language is being created, it's components should be selected in a way to make it as appropriate for it's use case as possible. Of course sometimes it is a matter of preference, that's why we ended up with lots of natural/programming/markup languages which might accomplish the same thing.
 
+##  Objectives:
 
+1. Discover what a language is and what it needs to have in order to be considered a formal one;
 
-## Objectives:
-1. Understand what a language is and what it needs to have in order to be considered a formal one.
+2. Provide the initial setup for the evolving project that you will work on during this semester. You can deal with each laboratory work as a separate task or project to demonstrate your understanding of the given themes, but you also can deal with labs as stages of making your own big solution, your own project. Do the following:
 
-2. Provide the initial setup for the evolving project that you will work on during this semester. I said project because usually at lab works, I encourage/impose students to treat all the labs like stages of development of a whole project. Basically you need to do the following:
+    a. Create GitHub repository to deal with storing and updating your project;
 
-    a. Create a local && remote repository of a VCS hosting service (let us all use Github to avoid unnecessary headaches);
+    b. Choose a programming language. Pick one that will be easiest for dealing with your tasks, you need to learn how to solve the problem itself, not everything around the problem (like setting up the project, launching it correctly and etc.);
 
-    b. Choose a programming language, and my suggestion would be to choose one that supports all the main paradigms;
+    c. Store reports separately in a way to make verification of your work simpler (duh)
 
-    c. Create a separate folder where you will be keeping the report. This semester I wish I won't see reports alongside source code files, fingers crossed;
-
-3. According to your variant number (by universal convention it is register ID), get the grammar definition and do the following tasks:
+3. According to your variant number, get the grammar definition and do the following:
 
     a. Implement a type/class for your grammar;
 
     b. Add one function that would generate 5 valid strings from the language expressed by your given grammar;
 
     c. Implement some functionality that would convert and object of type Grammar to one of type Finite Automaton;
-    
+
     d. For the Finite Automaton, please add a method that checks if an input string can be obtained via the state transition from it;
-
-
    
 ## Implementation tips:
 
@@ -100,6 +97,6 @@ public class FiniteAutomaton
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-7. The deadline for this assignment is __17/02/2023::23:59:59:99__.
+7. The deadline for this assignment is ... i don't know at the moment, stay tuned for updates.
 
 8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
