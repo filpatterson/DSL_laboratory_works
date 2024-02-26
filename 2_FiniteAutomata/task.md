@@ -35,6 +35,8 @@
         
     - Your program needs to gather and send the data about the automaton and the lib/tool/API return the visual representation.
 
+Please consider that all elements of the task 3 can be done manually, writing a detailed report about how you've done the conversion and what changes have you introduced. In case if you'll be able to write a complete program that will take some finite automata and then convert it to the regular grammar - this will be **a good bonus point**.
+
 
 ## Implementation tips:
 
@@ -57,6 +59,6 @@
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-7. The deadline for this assignment is ... well, stay tuned, you're too curious.
+7. The deadline for this assignment is 3-rd march, 2024, 23:59:59.
 
 8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
