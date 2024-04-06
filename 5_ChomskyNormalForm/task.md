@@ -15,8 +15,8 @@
 3. Implement a method for normalizing an input grammar by the rules of CNF.
     1. The implementation needs to be encapsulated in a method with an appropriate signature (also ideally in an appropriate class/type).
     2. The implemented functionality needs executed and tested.
-    3. A BONUS point will be given for the student who will have unit tests that validate the functionality of the project.
-    4. Also, another BONUS point would be given if the student will make the aforementioned function to accept any grammar, not only the one from the student's variant.
+    3. A **BONUS point** will be given for the student who will have unit tests that validate the functionality of the project.
+    4. Also, another **BONUS point** would be given if the student will make the aforementioned function to accept any grammar, not only the one from the student's variant.
 
 
 ## Evaluation:
@@ -34,7 +34,7 @@
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-7. The deadline for this assignment is ... so you don't give up. Well, check Sekiro or Elden Ring, considering your curiosity you'll be able to beat them.
+7. The deadline for this assignment is 14 April, 23:59
 
 8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
 
