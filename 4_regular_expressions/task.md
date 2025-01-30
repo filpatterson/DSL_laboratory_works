@@ -71,6 +71,6 @@ Examples of what must be generated:
 
 4. **Upload link to the ELSE** (I understand that you're giving access mostly to the same repo as previous labs, but it eases my experience to verify all your labs and assignment on ELSE is closed - all win);
 
-5. Deadline is 31 March 2024, 23:59;
+5. Deadline is ... ok, if you will understand what message is hidden in the 30-th second of the video - then you know the time limit. Here: https://www.youtube.com/watch?v=hvL1339luv0
 
 6. You have to present the lab and in case if you don't - max grade decreases by 1 per week of delay.
