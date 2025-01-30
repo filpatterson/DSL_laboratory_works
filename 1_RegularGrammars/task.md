@@ -97,6 +97,6 @@ public class FiniteAutomaton
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-7. The deadline for this assignment is 18-02-2024: 23:59
+6. The deadline for this assignment is ... well, i'm not sure, need approval from higher forces, wait for it;
 
 8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
