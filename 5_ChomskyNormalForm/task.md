@@ -26,17 +26,17 @@
   * Please don't name your folders based on the lab work (e.g. Lab1, Lab2 etc.). You'll be penalized for this.
   * Please organize your files in a logical way for easier access.
 
-2. It should contain an explanation in the form of a Markdown with the standard structure from the ../REPORT_TEMPLATE.md file. The report needs to be put with the other reports in the corresponding folder.
+2. It should contain an explanation in the form of a Markdown with the standard structure from the ../REPORT_TEMPLATE.md file. The report needs to be put with the other reports in the corresponding folder;
 
-3. In order to make the evaluation as optimal as possible you should obey the indications and document the project accordingly so that I could evaluate them by myself. The works can be presented by you as well if you want either at the lectures or online.
+3. In order to make the evaluation as optimal as possible you should obey the indications and document the project accordingly so that I could evaluate them by myself. The works can be presented by you as well if you want either at the lectures or online;
 
-4. You need to submit on ELSE the URL to the repository. Not a huge letter/message to me telling what you did, or some .zip file or other meaningless stuff. Just the URL. And preferably a valid URL so that I won't waste time trying to find your repo on Github.
+4. You need to submit on ELSE the URL to the repository. Not a huge letter/message to me telling what you did, or some .zip file or other meaningless stuff. Just the URL. And preferably a valid URL so that I won't waste time trying to find your repo on Github;
 
-5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
+5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions;
 
-7. The deadline for this assignment is 14 April, 23:59
+6. The deadline for this assignment is ... really, you're still checking the labs? Go touch some grass, play a little;
 
-8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
+7. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
 
 
 ## References:
