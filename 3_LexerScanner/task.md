@@ -13,7 +13,9 @@
 ## Objectives:
 1. Understand what lexical analysis [1] is.
 2. Get familiar with the inner workings of a lexer/scanner/tokenizer.
-3. Implement a sample lexer and show how it works.
+3. Implement a sample lexer and show how it works. 
+
+**Note:** Just because too many students were showing me the same idea of lexer for a calculator, I've decided to specify requirements for such case. Try to make it at least a little more complex. Like, being able to pass integers and floats, also to be able to perform trigonometric operations (cos and sin). **But it does not mean that you need to do the calculator, you can pick anything interesting you want**
 
 
 ## Implementation tips:
@@ -33,7 +35,7 @@
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-6. The deadline for this assignment is ... no, really, what are you searching for at this point? Maybe I should leave a Rickroll?
+6. The deadline for this assignment is 16-th March 2025, 23:59
 
 7. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
 
