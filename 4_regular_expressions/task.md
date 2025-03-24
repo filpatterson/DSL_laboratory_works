@@ -11,7 +11,7 @@
 
 2. Below you will find 3 complex regular expressions per each variant. Take a variant depending on your number in the list of students and do the following:
 
-    a. Write a code that will generate valid combinations of symbols conform given regular expressions (examples will be shown).
+    a. Write a code that will generate valid combinations of symbols conform given regular expressions (examples will be shown). Be careful that idea is to interpret the given regular expressions dinamycally, not to hardcode the way it will generate valid strings. You give a set of regexes as input and get valid word as an output
 
     b. In case you have an example, where symbol may be written undefined number of times, take a limit of 5 times (to evade generation of extremely long combinations);
 
