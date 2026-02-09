@@ -59,6 +59,6 @@ Please consider that all elements of the task 3 can be done manually, writing a 
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions;
 
-6. The deadline for this assignment is 2-nd March 23:59;
+6. The deadline for this assignment is 26-th February, 2026, 23:59;
 
 7. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
