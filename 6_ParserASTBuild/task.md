@@ -37,7 +37,7 @@
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-7. The deadline for this lab work is until 28 April, 23:59
+7. The deadline for this lab work is until 7 May 2026, 23:59
 
 8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
 
